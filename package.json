@@ -1,0 +1,15 @@
+{
+  "name": "odinnode",
+  "version": "1.0.0",
+  "description": "just tutorials",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo 'i am here'",
+    "start": "node server.js"
+  },
+  "author": "me",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
